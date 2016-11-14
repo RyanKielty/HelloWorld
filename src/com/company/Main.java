@@ -7,5 +7,7 @@ public class Main {
         p.name = "Alice";
         p.age = 30;
         p.isAlive = true;
+
+        int one = 1;
     }
 }
